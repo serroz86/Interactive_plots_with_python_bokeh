@@ -1,0 +1,33 @@
+,amount,exchange,group,group_num,name,unit,volume
+0,0.665,intermediate,input,5,"heat, district or industrial, natural gas",MJ,0.0
+0,1.0,intermediate,output,0,"polyethylene terephthalate, granulate, amorphous",kg,1.32236940655721
+0,0.94,intermediate,input,5,"steam, in chemical industry",kg,1.32236940655721
+0,0.0298,intermediate,input,5,"nitrogen, liquid",kg,1.32236940655721
+0,0.00231,intermediate,output,2,"waste plastic, mixture",kg,0.00231
+0,0.965,intermediate,input,5,"heat, district or industrial, other than natural gas",MJ,0.00231
+0,0.334,intermediate,input,5,ethylene glycol,kg,0.00231
+0,9e-05,intermediate,output,2,"hazardous waste, for underground deposit",kg,9e-05
+0,0.0004,intermediate,output,2,average incineration residue,kg,0.0004
+0,4e-10,intermediate,input,5,"chemical factory, organics",unit,0.0004
+0,0.194,intermediate,input,5,"electricity, medium voltage",kWh,0.0004
+0,0.875,intermediate,input,5,purified terephthalic acid,kg,0.0004
+0,0.00088,intermediate,output,2,municipal solid waste,kg,0.00088
+0,0.00102,elementary,output,4,"COD, Chemical Oxygen Demand",kg,0.00088
+0,0.000262,elementary,output,4,"DOC, Dissolved Organic Carbon",kg,0.00088
+0,3.2e-07,elementary,output,4,"Particulates, > 10 um",kg,0.00088
+0,0.0064,elementary,input,4,"Water, cooling, unspecified natural origin",m3,0.00088
+0,4.3e-07,elementary,output,4,"Particulates, > 2.5 um, and < 10um",kg,0.00088
+0,0.00016,elementary,output,4,"BOD5, Biological Oxygen Demand",kg,0.00088
+0,1e-06,elementary,output,4,"Suspended solids, unspecified",kg,0.00088
+0,0.000499,elementary,output,4,"Hydrocarbons, unspecified",kg,0.00088
+0,0.000262,elementary,output,4,"TOC, Total Organic Carbon",kg,0.00088
+0,0.002513415,elementary,output,4,Water,m3,0.00088
+0,0.004049585,elementary,output,4,Water,m3,0.00088
+0,0.000163,elementary,input,4,"Water, unspecified natural origin",m3,0.00088
+0,9e-05,elementary,output,4,"NMVOC, non-methane volatile organic compounds, unspecified origin",kg,0.00088
+0,2.5e-07,elementary,output,4,"Particulates, < 2.5 um",kg,0.00088
+0,0.004,elementary,output,4,"Particulates, < 2.5 um",kg,0.00088
+0,0.205,elementary,output,4,"Particulates, < 2.5 um",kg,0.00088
+0,0.032,elementary,output,4,"Particulates, < 2.5 um",kg,0.00088
+0,0.771,elementary,output,4,"Particulates, < 2.5 um",kg,0.00088
+0,0.3875,elementary,output,4,"Particulates, < 2.5 um",kg,0.00088

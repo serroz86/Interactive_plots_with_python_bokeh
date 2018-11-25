@@ -1,0 +1,38 @@
+,amount,exchange,group,group_num,name,unit,volume
+0,0.07145,intermediate,input,5,"oxygen, liquid",kg,0.0
+0,0.12501,intermediate,input,5,"iron scrap, sorted, pressed",kg,0.0
+0,0.9,intermediate,input,5,pig iron,kg,0.0
+0,0.021944,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,0.015278,intermediate,input,5,"ferromanganese, high-coal, 74.5% Mn",kg,0.0
+0,0.032853,intermediate,input,5,"ferrochromium, high-carbon, 68% Cr",kg,0.0
+0,0.00096153846153846,intermediate,input,5,"natural gas, high pressure",m3,0.0
+0,0.0425,intermediate,input,5,"quicklime, in pieces, loose",kg,0.0
+0,0.032077,intermediate,output,2,basic oxygen furnace waste,kg,2886485252.395
+0,0.0010625,intermediate,output,2,"dust, unalloyed electric arc furnace steel",kg,95610268.4375
+0,1.3333e-11,intermediate,input,5,blast oxygen furnace converter,unit,95610268.4375
+0,0.00059649,intermediate,input,5,molybdenite,kg,95610268.4375
+0,0.022,intermediate,input,5,"iron ore, beneficiated, 65% Fe",kg,95610268.4375
+0,0.045,intermediate,input,5,"ferronickel, 25% Ni",kg,95610268.4375
+0,1.0,intermediate,output,0,"steel, low-alloyed",kg,89986135000.0
+0,0.00275,intermediate,input,5,dolomite,kg,89986135000.0
+0,0.0029,intermediate,output,2,"inert waste, for final disposal",kg,260959791.5
+0,0.00025,intermediate,input,5,coke,MJ,260959791.5
+0,0.00611840858706496,elementary,output,4,Water,m3,260959791.5
+0,1.25e-05,elementary,output,4,Nitrogen oxides,kg,260959791.5
+0,2.5e-08,elementary,output,4,Copper,kg,260959791.5
+0,3.05e-14,elementary,output,4,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",kg,260959791.5
+0,1.85e-07,elementary,output,4,Chromium,kg,260959791.5
+0,1.2e-10,elementary,output,4,"PAH, polycyclic aromatic hydrocarbons",kg,260959791.5
+0,0.00473,elementary,output,4,"Carbon monoxide, fossil",kg,260959791.5
+0,5.15e-07,elementary,output,4,Lead,kg,260959791.5
+0,0.010514950542745,elementary,input,4,"Water, cooling, unspecified natural origin",m3,260959791.5
+0,4.75e-05,elementary,output,4,"Particulates, < 2.5 um",kg,260959791.5
+0,0.00681797651491958,elementary,output,4,Water,m3,260959791.5
+0,0.0756,elementary,output,4,"Carbon dioxide, fossil",kg,260959791.5
+0,0.00242143455923954,elementary,input,4,"Water, unspecified natural origin",m3,260959791.5
+0,6.05e-07,elementary,output,4,Manganese,kg,260959791.5
+0,0.004,elementary,output,4,Manganese,kg,260959791.5
+0,0.095,elementary,output,4,Manganese,kg,260959791.5
+0,0.032,elementary,output,4,Manganese,kg,260959791.5
+0,0.56,elementary,output,4,Manganese,kg,260959791.5
+0,0.771,elementary,output,4,Manganese,kg,260959791.5

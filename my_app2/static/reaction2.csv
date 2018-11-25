@@ -1,0 +1,88 @@
+,amount,exchange,group,group_num,name,unit,volume
+0,287.0,intermediate,input,5,tap water,kg,0.0
+0,3.80952380952381e-08,intermediate,input,5,"wooden board factory, organic bonded boards",unit,0.0
+0,4.72,intermediate,input,5,paraffin,kg,0.0
+0,15.9264,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,23.4472,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,46.6,intermediate,input,5,urea formaldehyde resin,kg,0.0
+0,17.0324,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,11.7236,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,15.9264,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,7.742,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,18.3596,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,46.2308,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,10.8388,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,33.4012,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,13.7144,intermediate,input,5,"electricity, medium voltage",kWh,0.0
+0,15.4285714285714,intermediate,input,5,"heat, district or industrial, other than natural gas",MJ,0.0
+0,25.3333333333333,intermediate,input,5,"heat, district or industrial, other than natural gas",MJ,0.0
+0,111.0,intermediate,input,5,"wood chips, from post-consumer wood, measured as dry mass",kg,0.0
+0,1073.33333333333,intermediate,input,5,"heat, district or industrial, natural gas",MJ,0.0
+0,367.51,intermediate,input,5,"wood chips, dry, measured as dry mass",kg,0.0
+0,0.00744755244755245,intermediate,input,5,"pulpwood, hardwood, measured as solid wood under bark",m3,0.0
+0,0.624338624338624,intermediate,input,5,"pulpwood, softwood, measured as solid wood under bark",m3,0.0
+0,2.00503576,intermediate,output,2,"wood ash mixture, pure",kg,22285824.0997538
+0,10.2,intermediate,input,5,"slab and siding, softwood, wet, measured as dry mass",kg,22285824.0997538
+0,2.78430386e-05,intermediate,input,5,"furnace, wood chips, softwood storage area, 1000kW",unit,22285824.0997538
+0,0.407,intermediate,output,2,wastewater from medium density board production,m3,4523774.882
+0,30.02,intermediate,input,5,"saw dust, wet, measured as dry mass",kg,4523774.882
+0,0.579,intermediate,input,5,"wood chips, wet, measured as dry mass",kg,4523774.882
+0,5.57181706095238e-06,intermediate,input,5,"dust collector, electrostatic precipitator, for industrial use",unit,4523774.882
+0,0.000117674497695238,intermediate,input,5,"furnace, wood chips, with silo, 5000kW",unit,4523774.882
+0,1.0,intermediate,output,0,medium density fibreboard,m3,11114926.0
+0,6.8572,intermediate,input,5,"electricity, medium voltage",kWh,11114926.0
+0,0.903,intermediate,output,2,biowaste,kg,10036778.178
+0,0.794185,intermediate,output,2,"hazardous waste, for incineration",kg,8827307.50531
+0,35.6,intermediate,input,5,"diesel, burned in building machine",MJ,8827307.50531
+0,0.1311,intermediate,input,5,lubricating oil,kg,8827307.50531
+0,0.895,intermediate,input,5,"chemical, organic",kg,8827307.50531
+0,0.0228,intermediate,input,5,"aluminium sulfate, powder",kg,8827307.50531
+0,0.046364,intermediate,output,2,"residual wood, dry",m3,515332.429064
+0,0.3276,intermediate,input,5,"urea, as N",kg,515332.429064
+0,42.0,intermediate,input,5,melamine formaldehyde resin,kg,515332.429064
+0,1.684904e-07,elementary,output,4,Chromium VI,kg,515332.429064
+0,0.013058006,elementary,output,4,"Hydrocarbons, aliphatic, unsaturated",kg,515332.429064
+0,3.4119306e-08,elementary,output,4,"Phenol, pentachloro-",kg,515332.429064
+0,0.0038331566,elementary,output,4,Benzene,kg,515332.429064
+0,0.00631839,elementary,output,4,"Methane, non-fossil",kg,515332.429064
+0,4.6756086e-05,elementary,output,4,"PAH, polycyclic aromatic hydrocarbons",kg,515332.429064
+0,4.21226e-06,elementary,output,4,Arsenic,kg,515332.429064
+0,2.527356e-05,elementary,output,4,Nickel,kg,515332.429064
+0,0.39539891,elementary,output,4,"NMVOC, non-methane volatile organic compounds, unspecified origin",kg,515332.429064
+0,0.0001263678,elementary,output,4,"Benzene, ethyl-",kg,515332.429064
+0,1.66805496e-05,elementary,output,4,Chromium,kg,515332.429064
+0,0.5054712,elementary,output,4,Nitrogen oxides,kg,515332.429064
+0,0.0007582068,elementary,output,4,Chlorine,kg,515332.429064
+0,0.0072872098,elementary,output,4,Ammonia,kg,515332.429064
+0,0.005475938,elementary,output,4,Sodium,kg,515332.429064
+0,0.0015164136,elementary,output,4,Magnesium,kg,515332.429064
+0,0.0002527356,elementary,output,4,Bromine,kg,515332.429064
+0,0.01053065,elementary,output,4,"Particulates, < 2.5 um",kg,515332.429064
+0,1.263678e-10,elementary,output,4,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",kg,515332.429064
+0,0.0038331566,elementary,output,4,"Hydrocarbons, aliphatic, alkanes, unspecified",kg,515332.429064
+0,0.01053065,elementary,output,4,Sulfur dioxide,kg,515332.429064
+0,2.10613e-06,elementary,output,4,Benzo(a)pyrene,kg,515332.429064
+0,0.000210613,elementary,output,4,Fluorine,kg,515332.429064
+0,3.0328272e-11,elementary,output,4,"Benzene, hexachloro-",kg,515332.429064
+0,0.009688198,elementary,output,4,Dinitrogen monoxide,kg,515332.429064
+0,0.1385475938,elementary,output,4,Formaldehyde,kg,515332.429064
+0,0.0001053065,elementary,output,4,Lead,kg,515332.429064
+0,429.65052,elementary,output,4,"Carbon dioxide, non-fossil",kg,515332.429064
+0,0.0005054712,elementary,output,4,m-Xylene,kg,515332.429064
+0,1.263678e-06,elementary,output,4,Mercury,kg,515332.429064
+0,0.001263678,elementary,output,4,Phosphorus,kg,515332.429064
+0,0.098566884,elementary,output,4,Potassium,kg,515332.429064
+0,0.842452,elementary,output,4,"Carbon monoxide, non-fossil",kg,515332.429064
+0,0.00060094786,elementary,output,4,Acetaldehyde,kg,515332.429064
+0,9.266972e-05,elementary,output,4,Copper,kg,515332.429064
+0,0.024641721,elementary,output,4,Calcium,kg,515332.429064
+0,0.001263678,elementary,output,4,Toluene,kg,515332.429064
+0,0.0007160842,elementary,output,4,Manganese,kg,515332.429064
+0,2.948582e-06,elementary,output,4,Cadmium,kg,515332.429064
+0,0.001263678,elementary,output,4,Zinc,kg,515332.429064
+0,0.323,elementary,input,4,"Water, river",m3,515332.429064
+0,0.000281,elementary,input,4,"Water, well, in ground",m3,515332.429064
+0,0.0802,elementary,output,4,"Particulates, > 10 um",kg,515332.429064
+0,0.287,elementary,input,4,"Water, cooling, unspecified natural origin",m3,515332.429064
+0,0.018,elementary,output,4,Methanol,kg,515332.429064
+0,4212.26,elementary,output,4,Methanol,kg,515332.429064

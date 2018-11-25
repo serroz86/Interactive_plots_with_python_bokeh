@@ -1,0 +1,32 @@
+,amount,exchange,group,group_num,name,unit,volume
+0,0.00303,intermediate,input,5,lubricating oil,kg,0.0
+0,0.0128,intermediate,input,5,"chemical, organic",kg,0.0
+0,0.00199,intermediate,input,5,titanium dioxide,kg,0.0
+0,1.0,intermediate,output,0,injection moulding,kg,1.32236940655721
+0,1.48,intermediate,input,5,"electricity, medium voltage",kWh,1.32236940655721
+0,3.31e-05,intermediate,output,2,"hazardous waste, for underground deposit",kg,3.31e-05
+0,0.0033264,intermediate,input,5,kaolin,kg,3.31e-05
+0,0.0447,intermediate,input,5,"solvent, organic",kg,3.31e-05
+0,4.21,intermediate,input,5,"heat, district or industrial, natural gas",MJ,3.31e-05
+0,0.229,intermediate,input,5,"heat, district or industrial, other than natural gas",MJ,3.31e-05
+0,1.43e-09,intermediate,input,5,packaging box factory,unit,3.31e-05
+0,9.94e-05,intermediate,input,5,solid bleached board,kg,3.31e-05
+0,0.00358,intermediate,input,5,"polypropylene, granulate",kg,3.31e-05
+0,0.00169,intermediate,input,5,"polyethylene, low density, granulate",kg,3.31e-05
+0,0.00567,intermediate,output,2,"waste plastic, mixture",kg,0.00567
+0,0.00146,intermediate,input,5,EUR-flat pallet,unit,0.00567
+0,0.000895,intermediate,output,2,municipal solid waste,kg,0.000895
+0,0.0004536,intermediate,input,5,malusil,kg,0.000895
+0,0.00378,intermediate,input,5,lime,kg,0.000895
+0,0.0042625,elementary,output,4,Water,m3,0.000895
+0,0.0067375,elementary,output,4,Water,m3,0.000895
+0,0.011,elementary,input,4,"Water, cooling, unspecified natural origin",m3,0.000895
+0,3.43703703703704e-06,elementary,output,4,"TOC, Total Organic Carbon",kg,0.000895
+0,6.63e-06,elementary,output,4,"Suspended solids, unspecified",kg,0.000895
+0,9.28e-06,elementary,output,4,"COD, Chemical Oxygen Demand",kg,0.000895
+0,3.43703703703704e-06,elementary,output,4,"DOC, Dissolved Organic Carbon",kg,0.000895
+0,1.856e-05,elementary,output,4,"BOD5, Biological Oxygen Demand",kg,0.000895
+0,0.004,elementary,output,4,"BOD5, Biological Oxygen Demand",kg,0.000895
+0,0.032,elementary,output,4,"BOD5, Biological Oxygen Demand",kg,0.000895
+0,0.771,elementary,output,4,"BOD5, Biological Oxygen Demand",kg,0.000895
+0,0.3875,elementary,output,4,"BOD5, Biological Oxygen Demand",kg,0.000895
